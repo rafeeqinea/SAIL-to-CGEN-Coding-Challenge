@@ -1,0 +1,6 @@
+((yaml:receipt "Oz-Ware Purchase Invoice") (yaml:date "2012-08-06") (yaml:customer (yaml:customer:first_name "Dorothy") (yaml:customer:family_name "Gale")) (yaml:items (yaml:items:item:part_no "A4786") (yaml:items:item:descrip "Water Bucket (Filled)") (yaml:items:item:price 1.47) (yaml:items:item:quantity 4) (yaml:items:item:part_no "E1628") (yaml:items:item:descrip "High Heeled \"Ruby\" Slippers") (yaml:items:item:size 8) (yaml:items:item:price 133.7) (yaml:items:item:quantity 1)) (yaml:bill-to (yaml:bill-to:given "Dorothy") (yaml:bill-to:family "Gale") (yaml:bill-to:address (yaml:bill-to:address:lines "123 Tornado Alley
+Suite 16
+") (yaml:bill-to:address:city "East Centerville") (yaml:bill-to:address:state "KS"))) (yaml:ship-to (yaml:ship-to:given "Dorothy") (yaml:ship-to:family "Gale") (yaml:ship-to:address (yaml:ship-to:address:lines "123 Tornado Alley
+Suite 16
+") (yaml:ship-to:address:city "East Centerville") (yaml:ship-to:address:state "KS"))) (yaml:specialDelivery "Follow the Yellow Brick Road to the Emerald City. Pay no attention to the man behind the curtain.
+"))
